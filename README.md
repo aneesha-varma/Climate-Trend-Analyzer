@@ -160,10 +160,10 @@ The project generates the following outputs:
 Add your images like this:
 
 ```
-![Trend](outputs/temp_trend.png)
+![Preview](outputs/dataset_preview (6).png)
 ![Rolling](outputs/rolling_mean.png)
-![Anomalies](outputs/anomalies.png)
-![Forecast](outputs/forecast.png)
+![Forecast](outputs/forecast_output.png)
+
 ```
 
 ---

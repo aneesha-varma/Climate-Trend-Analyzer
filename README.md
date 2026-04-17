@@ -160,8 +160,15 @@ The project generates the following outputs:
 Add your images like this:
 
 ```
-![Preview](images/dataset_preview.png)
+## 📊 Outputs
+
+### Dataset Preview
+![Dataset](images/dataset_preview.png)
+
+### Rolling Mean
 ![Rolling](images/rolling_mean.png)
+
+### Forecast
 ![Forecast](images/forecast_output.png)
 
 ```

@@ -155,26 +155,6 @@ The project generates the following outputs:
 
 ---
 
-## 🖼️ Screenshots
-
-Add your images like this:
-
-```
-## 📊 Outputs
-
-### Dataset Preview
-![Dataset](images/dataset_preview.png)
-
-### Rolling Mean
-![Rolling](images/rolling_mean.png)
-
-### Forecast
-![Forecast](images/forecast_output.png)
-
-```
-
----
-
 ## 🚀 Key Features
 
 * Time-series climate analysis
